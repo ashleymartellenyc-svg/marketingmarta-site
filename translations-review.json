@@ -1,0 +1,1249 @@
+{
+  "pages": [
+    {
+      "page": "nav",
+      "sections": [
+        {
+          "key": "work",
+          "en": "Work",
+          "pl": "Realizacje"
+        },
+        {
+          "key": "services",
+          "en": "Services",
+          "pl": "Usługi"
+        },
+        {
+          "key": "creativeStrategy",
+          "en": "Creative Strategy",
+          "pl": "Strategia Kreatywna"
+        },
+        {
+          "key": "ugc",
+          "en": "UGC",
+          "pl": "UGC"
+        },
+        {
+          "key": "about",
+          "en": "About",
+          "pl": "O mnie"
+        },
+        {
+          "key": "contact",
+          "en": "Contact",
+          "pl": "Kontakt"
+        },
+        {
+          "key": "getInTouch",
+          "en": "Get in Touch",
+          "pl": "Napisz do mnie"
+        }
+      ]
+    },
+    {
+      "page": "common",
+      "sections": [
+        {
+          "key": "engagement",
+          "en": "The engagement",
+          "pl": "O projekcie"
+        },
+        {
+          "key": "challenge",
+          "en": "The challenge",
+          "pl": "Wyzwanie"
+        },
+        {
+          "key": "approach",
+          "en": "Approach",
+          "pl": "Podejście"
+        },
+        {
+          "key": "results",
+          "en": "Results",
+          "pl": "Wyniki"
+        },
+        {
+          "key": "creative",
+          "en": "The creative",
+          "pl": "Kreacje"
+        },
+        {
+          "key": "takeaway",
+          "en": "Takeaway",
+          "pl": "Podsumowanie"
+        },
+        {
+          "key": "readCaseStudy",
+          "en": "Read case study →",
+          "pl": "Przeczytaj case study →"
+        },
+        {
+          "key": "allWork",
+          "en": "← All work",
+          "pl": "← Wszystkie realizacje"
+        },
+        {
+          "key": "nextCaseStudy",
+          "en": "Next case study",
+          "pl": "Następne case study"
+        },
+        {
+          "key": "previous",
+          "en": "Previous",
+          "pl": "Poprzednie"
+        },
+        {
+          "key": "backTo",
+          "en": "Back to",
+          "pl": "Powrót do"
+        },
+        {
+          "key": "learnMore",
+          "en": "Learn more →",
+          "pl": "Dowiedz się więcej →"
+        },
+        {
+          "key": "getInTouch",
+          "en": "Get in Touch →",
+          "pl": "Napisz do mnie →"
+        },
+        {
+          "key": "readyToTalk",
+          "en": "Ready to talk?",
+          "pl": "Gotowa, żeby porozmawiać?"
+        },
+        {
+          "key": "fillOutForm",
+          "en": "Fill out the intake form — I'll be in touch.",
+          "pl": "Wypełnij formularz — odezwę się."
+        },
+        {
+          "key": "commonQuestions",
+          "en": "Common questions",
+          "pl": "Często zadawane pytania"
+        }
+      ]
+    },
+    {
+      "page": "home",
+      "sections": [
+        {
+          "key": "role",
+          "en": "Performance Creative Strategist",
+          "pl": "Performance Creative Strategist"
+        },
+        {
+          "key": "heroText",
+          "en": "I help apps, SaaS, and aggressive-growth startups turn paid social into a real growth channel.",
+          "pl": "Pomagam markom i agresywnie rosnącym startupom nad treściami do płatnych reklam w mediach społecznościowych."
+        },
+        {
+          "key": "subtext",
+          "en": "End-to-end performance creative — strategy, production, and the operational system behind it.",
+          "pl": "Kompleksowy performance creative — strategia, produkcja i system operacyjny za tym wszystkim."
+        },
+        {
+          "key": "ctaSeeWork",
+          "en": "See the work",
+          "pl": "Zobacz realizacje"
+        },
+        {
+          "key": "selectedWork",
+          "en": "Selected work",
+          "pl": "Wybrane realizacje"
+        },
+        {
+          "key": "openTo",
+          "en": "Open to fractional engagements with brands and agencies serious about paid social.",
+          "pl": "Otwarty/a na zaangażowania frakcyjne z markami i agencjami traktującymi płatne social poważnie."
+        },
+        {
+          "key": "stat1Label",
+          "en": "overseen at peak",
+          "pl": "zarządzane na szczycie"
+        },
+        {
+          "key": "stat2Label",
+          "en": "daily paying user scale in 9 months",
+          "pl": "wzrost płacących użytkowników dziennie w 9 miesięcy"
+        },
+        {
+          "key": "stat3Label",
+          "en": "signup increase across 2 audiences",
+          "pl": "wzrost rejestracji wśród 2 grup odbiorców"
+        },
+        {
+          "key": "stat4Label",
+          "en": "assets delivered",
+          "pl": "dostarczonych zasobów"
+        }
+      ]
+    },
+    {
+      "page": "work (index)",
+      "sections": [
+        {
+          "key": "caseStudies",
+          "en": "Case studies",
+          "pl": "Case study"
+        },
+        {
+          "key": "title",
+          "en": "Work",
+          "pl": "Realizacje"
+        },
+        {
+          "key": "sw_subtitle",
+          "en": "Scaled daily paying users 4–5x in nine months",
+          "pl": "Wzrost dziennych płacących użytkowników 4–5x w dziewięć miesięcy"
+        },
+        {
+          "key": "sw_summary",
+          "en": "Built the creative operation from zero, scaled the flagship product, and ran every weekly performance read. From no marketing team to a full creative pipeline.",
+          "pl": "Zbudowałam operację kreatywną od zera, przeskalowałam flagowy produkt i prowadziłam każdy tygodniowy raport performance. Od braku działu marketingu do pełnego pipeline'u kreatywnego."
+        },
+        {
+          "key": "am_subtitle",
+          "en": "BFCM creative direction and the mid-campaign pivot that worked",
+          "pl": "Kierowanie kreacjami BFCM i pivot w połowie kampanii, który zadziałał"
+        },
+        {
+          "key": "am_summary",
+          "en": "Stepped in for Black Friday, wrote briefs for editors, designers, and UGC creators. Pivoted mid-campaign when the data showed evergreen outperforming BFCM-specific creative.",
+          "pl": "Wkroczyłam na Black Friday, pisałam briefy dla montażystów, projektantów i twórców UGC. Dokonałam pivotu w połowie kampanii, gdy dane pokazały, że kreacje evergreen biją te typowo BFCM."
+        },
+        {
+          "key": "ab_subtitle",
+          "en": "41% host signup lift, 58% employer signup lift",
+          "pl": "Wzrost rejestracji hostów o 41%, pracodawców o 58%"
+        },
+        {
+          "key": "ab_summary",
+          "en": "Drove signup growth through front-end performance creative testing despite limited conversion attribution. Results measured on front-end signals.",
+          "pl": "Wzrost rejestracji poprzez testowanie performance creative po stronie front-end przy ograniczonej atrybucji konwersji. Wyniki mierzone sygnałami front-end."
+        }
+      ]
+    },
+    {
+      "page": "simplywise",
+      "sections": [
+        {
+          "key": "tag",
+          "en": "Performance Creative · 9-month engagement",
+          "pl": "Performance Creative · zaangażowanie 9-miesięczne"
+        },
+        {
+          "key": "title",
+          "en": "SimplyWise: scaled Cost Estimator's daily paying users 4–5x in nine months",
+          "pl": "SimplyWise: wzrost dziennych płacących użytkowników Cost Estimator o 4–5x w dziewięć miesięcy"
+        },
+        {
+          "key": "metaRole",
+          "en": "Performance Creative Strategist",
+          "pl": "Performance Creative Strategist"
+        },
+        {
+          "key": "metaGoal",
+          "en": "Paying user growth",
+          "pl": "Wzrost płacących użytkowników"
+        },
+        {
+          "key": "metaDate",
+          "en": "March 2025 — Ongoing",
+          "pl": "Marzec 2025 — nadal"
+        },
+        {
+          "key": "engagement",
+          "en": "Creative strategist and producer for SimplyWise, a US tech company building AI-powered apps for self-employed pros and small business owners. I own concept development, creative testing, account-level performance analysis, and creator management across paid social — the primary growth channel.",
+          "pl": "Creative strategist i producent dla SimplyWise, amerykańskiej firmy technologicznej budującej aplikacje AI dla samozatrudnionych i właścicieli małych firm. Odpowiadam za tworzenie konceptów, testowanie kreacji, analizę performance'u na poziomie konta i zarządzanie twórcami w płatnych social mediach — głównym kanale wzrostu."
+        },
+        {
+          "key": "challenge1",
+          "en": "No marketing team. No creative system. The flagship product was at a low daily paying user count with no reliable pipeline to scale from.",
+          "pl": "Brak działu marketingu. Brak systemu kreatywnego. Flagowy produkt miał niską liczbę dziennych płacących użytkowników i żadnego wiarygodnego pipeline'u do skalowania."
+        },
+        {
+          "key": "challenge2",
+          "en": "The audience changes by product, and each one needs creative anchored in real user language, not invented benefits. Every concept has to clear Andromeda and survive CBO routing that defaults spend to historical winners.",
+          "pl": "Odbiorcy różnią się w zależności od produktu, a każdy potrzebuje kreacji zakorzenionej w prawdziwym języku użytkowników, nie w wymyślonych benefitach. Każdy koncept musi przejść przez Andromedę i przetrwać routing CBO, który domyślnie kieruje wydatki do historycznych zwycięzców."
+        },
+        {
+          "key": "challenge3",
+          "en": "Building everything from scratch while running a live account at the same time.",
+          "pl": "Budowanie wszystkiego od podstaw przy jednoczesnym prowadzeniu aktywnego konta."
+        },
+        {
+          "key": "approach1",
+          "en": "Built the creative operation from scratch — set up the Notion concept database, our naming convention, brief and QC templates, the asset library that the entire team now uses in ad production, and the handoff system between strategy, production, and media buying",
+          "pl": "Zbudowałam operację kreatywną od zera — stworzyłam bazę konceptów w Notion, system nazewnictwa, szablony briefów i QC, bibliotekę zasobów używaną przez cały zespół w produkcji oraz system handoffu między strategią, produkcją a media buyingiem"
+        },
+        {
+          "key": "approach2",
+          "en": "Ran weekly, quarterly, and annual performance analysis — pulled directly from Meta Ads Manager, TikTok Ads Manager, and Motion, translated into actionable feedback the team worked from",
+          "pl": "Prowadziłam tygodniowe, kwartalne i roczne analizy performance'u — dane bezpośrednio z Meta Ads Managera, TikTok Ads Managera i Motion, przekształcone w konkretny feedback, na którym pracował zespół"
+        },
+        {
+          "key": "approach3",
+          "en": "Built a Flask app in Claude Code that drafts, scores, and QCs creative briefs before they go to production — cut the cycle from days to hours per concept",
+          "pl": "Zbudowałam aplikację Flask w Claude Code, która tworzy szkice briefów kreatywnych, ocenia je i przeprowadza QC przed przekazaniem do produkcji — skróciłam cykl z dni do godzin na koncepcję"
+        },
+        {
+          "key": "approach4",
+          "en": "Ran the Spanish-language expansion as a parallel pipeline, not a translated afterthought — separate research, separate creative, same performance accountability",
+          "pl": "Prowadziłam ekspansję na rynek hiszpańskojęzyczny jako równoległy pipeline, nie jako tłumaczenie po fakcie — osobne badania, osobne kreacje, ta sama odpowiedzialność za performance"
+        },
+        {
+          "key": "approach5",
+          "en": "Built out the in-house UGC production — sourced authentic content from real app users, briefed and directed creators, and managed those relationships end-to-end",
+          "pl": "Zbudowałam wewnętrzną produkcję UGC — pozyskiwałam autentyczny content od prawdziwych użytkowników aplikacji, briefowałam i kierowałam twórcami oraz zarządzałam tymi relacjami end-to-end"
+        },
+        {
+          "key": "result1",
+          "en": "Daily paying users on the flagship product scaled 4–5x over nine months",
+          "pl": "Dzienna liczba płacących użytkowników flagowego produktu wzrosła 4–5x w dziewięć miesięcy"
+        },
+        {
+          "key": "result2",
+          "en": "Iterated on the historical top-performing creative — the new version surpassed the original and held as a top creative across the account for months",
+          "pl": "Iterowałam na historycznie najlepiej performującej kreacji — nowa wersja przebiła oryginał i utrzymała się jako top creative w koncie przez wiele miesięcy"
+        },
+        {
+          "key": "result3",
+          "en": "Top static I produced ran at roughly a third of the campaign average CPR",
+          "pl": "Najlepsza statyczna kreacja, którą stworzyłam, osiągała CPR na poziomie około jednej trzeciej średniej kampanii"
+        },
+        {
+          "key": "result4",
+          "en": "Secondary product's blended CPR improved by more than 50%",
+          "pl": "Blended CPR produktu pobocznego poprawił się o ponad 50%"
+        },
+        {
+          "key": "result5",
+          "en": "Weekly performance reports surfaced the CBO spend-concentration issue that was starving new creative — informed the campaign restructure conversation with the founder",
+          "pl": "Tygodniowe raporty performance'u ujawniły problem z koncentracją wydatków CBO, który zagładzał nowe kreacje — dały podstawę do rozmowy z założycielem o restrukturyzacji kampanii"
+        },
+        {
+          "key": "takeaway",
+          "en": "I don't just write ads — I build the system that produces them, then read the data coming back out of it.",
+          "pl": "Nie tylko piszę reklamy — buduję system, który je produkuje, a następnie analizuję wyniki."
+        },
+        {
+          "key": "nextLabel",
+          "en": "Next case study",
+          "pl": "Następne case study"
+        },
+        {
+          "key": "nextTitle",
+          "en": "Awesome Maps →",
+          "pl": "Awesome Maps →"
+        }
+      ]
+    },
+    {
+      "page": "awesome-maps",
+      "sections": [
+        {
+          "key": "tag",
+          "en": "Creative Strategy · DTC e-commerce",
+          "pl": "Strategia Kreatywna · DTC e-commerce"
+        },
+        {
+          "key": "title",
+          "en": "Awesome Maps: BFCM creative direction and the mid-campaign pivot that worked",
+          "pl": "Awesome Maps: kierowanie kreacjami BFCM i pivot w połowie kampanii, który zadziałał"
+        },
+        {
+          "key": "metaRole",
+          "en": "Performance Creative Strategist + UGC Creator",
+          "pl": "Performance Creative Strategist + twórca UGC"
+        },
+        {
+          "key": "metaGoal",
+          "en": "Increase BFCM sales",
+          "pl": "Zwiększenie sprzedaży BFCM"
+        },
+        {
+          "key": "metaDate",
+          "en": "Q4 2024",
+          "pl": "Q4 2024"
+        },
+        {
+          "key": "engagement",
+          "en": "Awesome Maps is a DTC e-commerce brand specializing in unique travel products featuring their hand-drawn world maps. I first started working with them as a UGC creator in Q1 2024. Through consistent overdelivery and strategic input on their ad performance, I built a strong relationship with the team. By Q4, they brought me in as their Creative Strategist for Black Friday / Cyber Monday.",
+          "pl": "Awesome Maps to marka DTC e-commerce specjalizująca się w unikalnych produktach podróżniczych z ręcznie rysowanymi mapami świata. Z Awesome Maps zaczęłam współpracować jako twórca UGC w Q1 2024. Przez konsekwentne wykraczanie poza oczekiwania i strategiczny wkład w analizę performance'u reklam zbudowałam silną relację z zespołem. W Q4 zaprosiło mnie do roli Creative Strategist na Black Friday / Cyber Monday."
+        },
+        {
+          "key": "challenge",
+          "en": "A small DTC brand heading into BFCM needed fresh creative concepts and disciplined ad performance analysis — but the assumption that BFCM-specific creative would outperform evergreen turned out to be wrong mid-campaign.",
+          "pl": "Mała marka DTC wchodząca w BFCM potrzebowała świeżych konceptów kreatywnych i zdyscyplinowanej analizy performance'u reklam — ale założenie, że kreacje typowo BFCM przebiją evergreen, okazało się błędne w połowie kampanii."
+        },
+        {
+          "key": "approach1",
+          "en": "Refined the ad creative strategy based on past performance data",
+          "pl": "Doprecyzowałam strategię kreatywną na podstawie danych z poprzednich wyników"
+        },
+        {
+          "key": "approach2",
+          "en": "Developed new ad concepts and iterated on top performers",
+          "pl": "Opracowałam nowe koncepty reklamowe i iterowałam na top performerach"
+        },
+        {
+          "key": "approach3",
+          "en": "Wrote detailed briefs for video editors, designers, and UGC creators and oversaw production end-to-end",
+          "pl": "Pisałam szczegółowe briefy dla montażystów, projektantów i twórców UGC i nadzorowałam produkcję end-to-end"
+        },
+        {
+          "key": "approach4",
+          "en": "Analyzed live performance and pivoted the strategy mid-flight — shifted spend from net-new BFCM concepts back into scaling evergreen content when the data showed evergreen was outperforming",
+          "pl": "Analizowałam live performance i dokonałam pivotu strategii w połowie kampanii — przenieśliśmy budżet z nowych konceptów BFCM z powrotem na skalowanie materiałów evergreen, gdy dane pokazały, że evergreen performuje lepiej"
+        },
+        {
+          "key": "prevLabel",
+          "en": "Previous",
+          "pl": "Poprzednie"
+        },
+        {
+          "key": "prevTitle",
+          "en": "← SimplyWise",
+          "pl": "← SimplyWise"
+        },
+        {
+          "key": "nextLabel",
+          "en": "Next case study",
+          "pl": "Następne case study"
+        },
+        {
+          "key": "nextTitle",
+          "en": "Abroadly →",
+          "pl": "Abroadly →"
+        }
+      ]
+    },
+    {
+      "page": "abroadly",
+      "sections": [
+        {
+          "key": "tag",
+          "en": "Paid Social · Tech startup",
+          "pl": "Płatne Social · Startup technologiczny"
+        },
+        {
+          "key": "title",
+          "en": "Abroadly: 41% host signup lift and 58% employer signup lift on limited attribution",
+          "pl": "Abroadly: wzrost rejestracji hostów o 41% i pracodawców o 58% przy ograniczonej atrybucji"
+        },
+        {
+          "key": "metaRole",
+          "en": "Performance Creative Strategist + UGC Creator",
+          "pl": "Performance Creative Strategist + twórca UGC"
+        },
+        {
+          "key": "metaGoal",
+          "en": "Membership signup increase",
+          "pl": "Wzrost rejestracji"
+        },
+        {
+          "key": "metaDate",
+          "en": "June — November 2024",
+          "pl": "Czerwiec — Listopad 2024"
+        },
+        {
+          "key": "engagement",
+          "en": "Abroadly is a tech startup in the travel space — a social networking platform connecting budget travelers with accommodations, jobs, companions, meetups, and travel guides to promote sustainable travel and cultural exchange. I led their paid social creative strategy, focused on driving signups for both hosts and employers.",
+          "pl": "Abroadly to startup technologiczny w branży podróżniczej — platforma społecznościowa łącząca osoby podróżujące na małym budżecie z zakwaterowaniem, pracą, towarzyszami podróży, spotkaniami i przewodnikami w celu promowania zrównoważonej turystyki i wymiany kulturowej. Prowadziłam ich strategię kreatywną w płatnych social mediach, skupioną na zwiększeniu rejestracji hostów i pracodawców."
+        },
+        {
+          "key": "challenge",
+          "en": "Limited conversion attribution made it hard to see exactly where users were dropping off in the funnel. Creative decisions had to be made on front-end signals alone — which means the creative itself had to do more work.",
+          "pl": "Ograniczona atrybucja konwersji utrudniała precyzyjne śledzenie, gdzie użytkownicy odpuszczali w lejku sprzedażowym. Decyzje kreatywne musiały być podejmowane wyłącznie na podstawie sygnałów front-end — co oznaczało, że sama kreacja musiała wykonywać większą pracę."
+        },
+        {
+          "key": "approach1",
+          "en": "Analyzed front-end engagement metrics as the primary signal given limited downstream attribution",
+          "pl": "Analizowałam metryki zaangażowania front-end jako główny sygnał przy ograniczonej atrybucji downstream"
+        },
+        {
+          "key": "approach2",
+          "en": "Tested creative variations across different audience targeting segments to identify what resonated with each",
+          "pl": "Testowałam warianty kreacji w różnych segmentach targetowania, aby zidentyfikować, co rezonuje z każdym z nich"
+        },
+        {
+          "key": "approach3",
+          "en": "Iterated on the formats and hooks that drove the strongest front-end engagement",
+          "pl": "Iterowałam na formatach i hookach, które generowały najsilniejsze zaangażowanie front-end"
+        },
+        {
+          "key": "approach4",
+          "en": "Worked closely with the media buyer to identify winning creatives and refine messaging for ad efficiency",
+          "pl": "Ściśle współpracowałam z media buyerem, aby zidentyfikować zwycięskie kreacje i doprecyzować messaging pod kątem efektywności reklam"
+        },
+        {
+          "key": "stat1Label",
+          "en": "increase in host signups",
+          "pl": "wzrost rejestracji hostów"
+        },
+        {
+          "key": "stat2Label",
+          "en": "increase in employer signups",
+          "pl": "wzrost rejestracji pracodawców"
+        },
+        {
+          "key": "stat3Label",
+          "en": "Scaled acquisition despite attribution gaps",
+          "pl": "Skalowana akwizycja pomimo luk w atrybucji"
+        },
+        {
+          "key": "prevLabel",
+          "en": "Previous",
+          "pl": "Poprzednie"
+        },
+        {
+          "key": "prevTitle",
+          "en": "← Awesome Maps",
+          "pl": "← Awesome Maps"
+        },
+        {
+          "key": "backLabel",
+          "en": "Back to",
+          "pl": "Powrót do"
+        },
+        {
+          "key": "backTitle",
+          "en": "All work →",
+          "pl": "Wszystkie realizacje →"
+        }
+      ]
+    },
+    {
+      "page": "services (index)",
+      "sections": [
+        {
+          "key": "title",
+          "en": "Services",
+          "pl": "Usługi"
+        },
+        {
+          "key": "subtitle",
+          "en": "Two ways I work with brands and agencies.",
+          "pl": "Dwa sposoby, w jakie pracuję z markami i agencjami."
+        },
+        {
+          "key": "cs_tag",
+          "en": "Retainer",
+          "pl": "Retainer"
+        },
+        {
+          "key": "cs_label",
+          "en": "Creative Strategy",
+          "pl": "Strategia Kreatywna"
+        },
+        {
+          "key": "cs_description",
+          "en": "End-to-end creative operations for paid social — research, concept development, production oversight, performance analysis, and iteration. I embed with your team and own the full creative loop.",
+          "pl": "Kompleksowe operacje kreatywne dla płatnych social mediów — badania, tworzenie konceptów, nadzór nad produkcją, analiza performance'u i iteracja. Wchodzę w Twój zespół i przejmuję pełną pętlę kreatywną."
+        },
+        {
+          "key": "ugc_tag",
+          "en": "Project / Retainer",
+          "pl": "Projekt / Retainer"
+        },
+        {
+          "key": "ugc_label",
+          "en": "UGC",
+          "pl": "UGC"
+        },
+        {
+          "key": "ugc_description",
+          "en": "UGC is actually how I started. I write, film, edit, and deliver finished UGC-style ad creative end-to-end, anchored in real audience research and built for performance.",
+          "pl": "Od UGC zaczęłam swoją karierę. Piszę, kręcę, montuję i dostarczam gotowy ad creative w stylu UGC end-to-end, zakorzeniony w prawdziwych badaniach odbiorców i zbudowany dla performance'u."
+        },
+        {
+          "key": "notSure",
+          "en": "Not sure which fits?",
+          "pl": "Nie wiesz, co pasuje?"
+        },
+        {
+          "key": "notSureSubtext",
+          "en": "Tell me where you are and what you need — we'll figure it out.",
+          "pl": "Opisz mi, gdzie jesteś i czego potrzebujesz — znajdziemy rozwiązanie."
+        }
+      ]
+    },
+    {
+      "page": "services/creative-strategy",
+      "sections": [
+        {
+          "key": "backLabel",
+          "en": "← Services",
+          "pl": "← Usługi"
+        },
+        {
+          "key": "tag",
+          "en": "Retainer",
+          "pl": "Retainer"
+        },
+        {
+          "key": "title",
+          "en": "Creative Strategy",
+          "pl": "Strategia Kreatywna"
+        },
+        {
+          "key": "subtitle",
+          "en": "End-to-end performance creative strategy for brands and agencies running paid social as a primary acquisition channel.",
+          "pl": "Kompleksowa strategia performance creative dla marek i agencji prowadzących płatne social media jako główny kanał akwizycji."
+        },
+        {
+          "key": "includedTitle",
+          "en": "What's included",
+          "pl": "Co jest wliczone"
+        },
+        {
+          "key": "include1",
+          "en": "Creative strategy and research — reputation analysis, customer review mining, competitor analysis, past-performance data analysis",
+          "pl": "Strategia i badania kreatywne — analiza reputacji, mining recenzji klientów, analiza konkurencji, analiza danych historycznych"
+        },
+        {
+          "key": "include2",
+          "en": "Concept development and ad scripting",
+          "pl": "Tworzenie konceptów i pisanie skryptów reklamowych"
+        },
+        {
+          "key": "include3",
+          "en": "Creator and influencer sourcing, briefing, and management",
+          "pl": "Pozyskiwanie, briefowanie i zarządzanie twórcami i influencerami"
+        },
+        {
+          "key": "include4",
+          "en": "UGC production management",
+          "pl": "Zarządzanie produkcją UGC"
+        },
+        {
+          "key": "include5",
+          "en": "End-to-end static and video creation using AI tools (like Higgsfield), plus video editing",
+          "pl": "Kompleksowe tworzenie materiałów statycznych i wideo przy użyciu narzędzi AI (jak Higgsfield), plus montaż wideo"
+        },
+        {
+          "key": "include6",
+          "en": "Writing detailed creative briefs and managing video editors and graphic designers through to delivery",
+          "pl": "Pisanie szczegółowych briefów kreatywnych i zarządzanie montażystami i projektantami aż do dostarczenia"
+        },
+        {
+          "key": "include7",
+          "en": "Ad performance monitoring, reporting, and creative iteration",
+          "pl": "Monitorowanie performance'u reklam, raportowanie i iteracja kreacji"
+        },
+        {
+          "key": "include8",
+          "en": "Building the operational systems that make all of the above repeatable",
+          "pl": "Budowanie systemów operacyjnych, które czynią powyższe powtarzalnym"
+        },
+        {
+          "key": "whoTitle",
+          "en": "Who it's for",
+          "pl": "Dla kogo"
+        },
+        {
+          "key": "whoText",
+          "en": "Good fit if you're a brand or agency running paid social as a primary acquisition channel, and you need someone who can own the creative side of it end-to-end — from strategy through to production.",
+          "pl": "Dobry fit, jeśli jesteś marką lub agencją prowadzącą płatne social media jako główny kanał akwizycji i potrzebujesz kogoś, kto może objąć stronę kreatywną end-to-end — od strategii po produkcję."
+        },
+        {
+          "key": "howTitle",
+          "en": "How it works",
+          "pl": "Jak to działa"
+        },
+        {
+          "key": "howText",
+          "en": "Monthly retainer engagement. Starts with an intake form so I can learn about your business. If it's a fit, I'll follow up to set up a discovery call.",
+          "pl": "Zaangażowanie na retainer miesięczny. Zaczyna się od formularza intakeowego, dzięki któremu mogę poznać Twój biznes. Jeśli pasujemy, odezwę się, żeby umówić rozmowę odkrywczą."
+        },
+        {
+          "key": "faqTitle",
+          "en": "Common questions",
+          "pl": "Często zadawane pytania"
+        },
+        {
+          "key": "faq1q",
+          "en": "What kinds of companies do I work best with?",
+          "pl": "Z jakimi firmami pracuję najlepiej?"
+        },
+        {
+          "key": "faq1a",
+          "en": "Brands and agencies running paid social as a primary acquisition channel, where ad creative is the lever that needs to move — and the team needs someone who can own it end-to-end.",
+          "pl": "Marki i agencje prowadzące płatne social media jako główny kanał akwizycji, gdzie creative reklamowy jest dźwignią, którą trzeba ruszyć — i zespół potrzebuje kogoś, kto może to ogarnąć end-to-end."
+        },
+        {
+          "key": "faq2q",
+          "en": "What kinds of companies aren't a good fit?",
+          "pl": "Z jakimi firmami nie pasuję?"
+        },
+        {
+          "key": "faq2a",
+          "en": "Startups still figuring out who their customer is or what makes their product worth buying, brands not yet running consistent paid social, and teams looking for \"set it and forget it\" creative. The work I do requires a real testing cadence and a willingness to act on what the data shows.",
+          "pl": "Startupy wciąż ustalające, kim jest ich klient lub co sprawia, że ich produkt wart jest kupienia; marki jeszcze nieprowadzące regularnych płatnych social mediów; oraz zespoły szukające podejścia \"ustaw i zapomnij\". Moja praca wymaga prawdziwej kadencji testowania i gotowości do działania zgodnie z tym, co pokazują dane."
+        },
+        {
+          "key": "faq3q",
+          "en": "What's actually included in a retainer?",
+          "pl": "Co dokładnie jest zawarte w retainerze?"
+        },
+        {
+          "key": "faq3a",
+          "en": "Creative strategy and research, concept development, ad scripting, creator sourcing and briefing, UGC production management, end-to-end static and video creation using AI tools (like Higgsfield) plus video editing, performance analysis pulled directly from your ad managers, and ongoing creative iteration. I do not handle media buying or brand identity work.",
+          "pl": "Strategia i badania kreatywne, tworzenie konceptów, pisanie skryptów, pozyskiwanie i briefowanie twórców, zarządzanie produkcją UGC, kompleksowe tworzenie materiałów statycznych i wideo przy użyciu narzędzi AI (jak Higgsfield) plus montaż, analiza performance'u bezpośrednio z Twoich ad managerów oraz ciągła iteracja kreacji. Nie zajmuję się media buyingiem ani pracą nad identyfikacją marki."
+        },
+        {
+          "key": "faq4q",
+          "en": "How do I measure success?",
+          "pl": "Jak mierzymy sukces?"
+        },
+        {
+          "key": "faq4a",
+          "en": "Success metrics depend on the business. We define them together at kickoff — usually some mix of ad-side metrics (CPR, CTR, in-app start trials, mobile app installs, website start trials) and what those translate to downstream.",
+          "pl": "Metryki sukcesu zależą od biznesu. Definiujemy je razem na kickoffie — zazwyczaj jakiś mix metryk po stronie reklam (CPR, CTR, in-app start trials, instalacje aplikacji mobilnych, start trials na stronie) i to, co przekładają się na dalszej części lejka."
+        },
+        {
+          "key": "faq5q",
+          "en": "How does a typical engagement start?",
+          "pl": "Jak wygląda typowe zaangażowanie na początku?"
+        },
+        {
+          "key": "faq5a",
+          "en": "Submit the intake form so I can learn about your business → if it's a fit I'll shoot you an email to set up a discovery call → 30-day kickoff with creative audit and concept roadmap → ongoing monthly rhythm of analysis → concept → produce → test.",
+          "pl": "Wypełnij formularz intakeowy → jeśli pasujemy, wyślę email w sprawie rozmowy odkrywczej → 30-dniowy kickoff z audytem kreatywnym i mapą konceptów → bieżący miesięczny rytm analizy → konceptu → produkcji → testowania."
+        },
+        {
+          "key": "ctaTitle",
+          "en": "Ready to talk?",
+          "pl": "Gotowa, żeby porozmawiać?"
+        },
+        {
+          "key": "ctaSubtext",
+          "en": "Fill out the intake form — I'll be in touch.",
+          "pl": "Wypełnij formularz intakeowy — odezwę się."
+        }
+      ]
+    },
+    {
+      "page": "services/ugc",
+      "sections": [
+        {
+          "key": "backLabel",
+          "en": "← Services",
+          "pl": "← Usługi"
+        },
+        {
+          "key": "tag",
+          "en": "Project / Retainer",
+          "pl": "Projekt / Retainer"
+        },
+        {
+          "key": "title",
+          "en": "UGC",
+          "pl": "UGC"
+        },
+        {
+          "key": "intro1",
+          "en": "UGC is actually how I started. I was the face of the ads — and after a while, I realized I didn't want to just deliver someone else's brief. I wanted to be the one writing it.",
+          "pl": "Od UGC zaczęłam. Byłam twarzą reklam — i po jakimś czasie zdałam sobie sprawę, że nie chcę tylko realizować czyjegoś briefu. Chciałam być tą, która realizuje, nie pisze briefe."
+        },
+        {
+          "key": "intro2",
+          "en": "So I moved into strategy. Now I bring my creator-side instincts to every brief I write, regardless of whether I'm the on-camera talent or not — scripts that don't sound like scripts, hooks rooted in consumer psychology, formats that actually convert.",
+          "pl": "Przeszłam do strategii. Teraz wnoszę instynkty twórcy do każdego briefu, który piszę — niezależnie od tego, czy jestem talent przed kamerą czy nie — skrypty, które nie brzmią jak skrypty, hooki zakorzenione w psychologii konsumenckiej, formaty, które naprawdę konwertują."
+        },
+        {
+          "key": "whatTitle",
+          "en": "What I do",
+          "pl": "Co robię"
+        },
+        {
+          "key": "what1",
+          "en": "I write, film, edit, and deliver finished UGC-style ad creative end-to-end. Scripts and concepts can come from me or from your brief — I work both ways. If you only need raw footage and want to handle editing in-house, that's an option too.",
+          "pl": "Piszę, kręcę, montuję i dostarczam gotowy ad creative w stylu UGC end-to-end. Skrypty i koncepty mogą pochodzić ode mnie lub z Twojego briefu — pracuję w obu kierunkach. Jeśli potrzebujesz tylko surowego materiału i chcesz montować we własnym zakresie, to też jest opcja."
+        },
+        {
+          "key": "what2",
+          "en": "Every piece is built around a hook → demonstration → conversion arc, anchored in real audience research, and produced in formats your media buyer can actually test. Available in English and Polish.",
+          "pl": "Każdy materiał jest zbudowany na łuku hook → demonstracja → konwersja, zakorzeniony w prawdziwych badaniach odbiorców i wyprodukowany w formatach, które Twój media buyer może faktycznie testować. Dostępny w języku angielskim i polskim."
+        },
+        {
+          "key": "brandsTitle",
+          "en": "Some brands I've worked with",
+          "pl": "Wybrane marki, z którymi współpracowałam"
+        },
+        {
+          "key": "testimonialsTitle",
+          "en": "What clients say",
+          "pl": "Co mówią klienci"
+        },
+        {
+          "key": "watchSample",
+          "en": "Watch sample →",
+          "pl": "Obejrzyj próbkę →"
+        },
+        {
+          "key": "videoNotAvailable",
+          "en": "Video not available",
+          "pl": "Wideo niedostępne"
+        },
+        {
+          "key": "sponsored_title",
+          "en": "Sponsored content",
+          "pl": "Treści sponsorowane"
+        },
+        {
+          "key": "sponsored_heading",
+          "en": "I also offer sponsored content for brands in travel, lifestyle, and anything Asia-related.",
+          "pl": "Oferuję też content sponsorowany dla marek z branży podróży, lifestylu i wszystkiego, co związane z Azją."
+        },
+        {
+          "key": "sponsored_p1",
+          "en": "My audience on @nomadicmarta is built around discovering places and experiences across Asia.",
+          "pl": "Moja społeczność na @nomadicmarta jest zbudowana wokół odkrywania miejsc i doświadczeń w całej Azji."
+        },
+        {
+          "key": "sponsored_p2",
+          "en": "You get organic reach, real audience trust, and a different kind of credibility than paid ads can buy.",
+          "pl": "Zyskujesz organiczny zasięg, prawdziwe zaufanie odbiorców i inny rodzaj wiarygodności, którego płatne reklamy nie kupią."
+        },
+        {
+          "key": "sponsored_mobile_p2",
+          "en": "Organic reach, real audience trust, and a different kind of credibility than paid ads can buy.",
+          "pl": "Organiczny zasięg, prawdziwe zaufanie odbiorców i inny rodzaj wiarygodności niż płatne reklamy."
+        },
+        {
+          "key": "faqTitle",
+          "en": "Common questions",
+          "pl": "Często zadawane pytania"
+        },
+        {
+          "key": "faq1q",
+          "en": "Where can you shoot?",
+          "pl": "Gdzie możesz kręcić?"
+        },
+        {
+          "key": "faq1a",
+          "en": "Anywhere that fits the brief. Home, gym, coffee shops, retail stores, authentic Thai markets, jungle, waterfalls, outdoor pools, urban streets, hotels, beaches. I'm based in Chiang Mai, Thailand and can travel within Thailand or further with prior planning. Location complexity affects rate and turnaround.",
+          "pl": "Wszędzie tam, gdzie pasuje do briefu. Dom, siłownia, kawiarnie, sklepy, autentyczne tajskie targowiska, dżungla, wodospady, zewnętrzne baseny, ulice miejskie, hotele, plaże. Mieszkam w Chiang Mai w Tajlandii i mogę podróżować w obrębie Tajlandii lub dalej po wcześniejszym planowaniu. Złożoność lokalizacji wpływa na stawkę i czas realizacji."
+        },
+        {
+          "key": "faq2q",
+          "en": "Do you write the script, or should I provide one?",
+          "pl": "Piszesz skrypt, czy mam dostarczyć swój?"
+        },
+        {
+          "key": "faq2a",
+          "en": "I write scripts and briefs as part of my standard scope. If you have a script you want me to deliver as-is, I offer script reads.",
+          "pl": "Piszę skrypty i briefy jako część standardowego zakresu. Jeśli masz skrypt, który chcesz, żebym odczytała zgodnie z nim, oferuję script reads."
+        },
+        {
+          "key": "faq3q",
+          "en": "What's your typical turnaround time?",
+          "pl": "Jaki jest typowy czas realizacji?"
+        },
+        {
+          "key": "faq3a",
+          "en": "Each project scopes differently depending on what I'm doing — scripting, editing, hook variations, location shoots, asset count. For a typical engagement: about a week to write the brief, client review, then another week to deliver finals. Rush fees available if you need it faster.",
+          "pl": "Każdy projekt ma inny zakres w zależności od tego, co robię — skrypty, montaż, warianty hooków, lokalizacje, liczba zasobów. Dla typowego zaangażowania: ok. tydzień na napisanie briefu i akceptację klienta, potem kolejny tydzień na dostarczenie finałów. Dopłata za pilne zlecenia, jeśli potrzebujesz szybciej."
+        },
+        {
+          "key": "faq4q",
+          "en": "What's your usage rights policy for paid ads?",
+          "pl": "Jaka jest Twoja polityka praw do wykorzystania w płatnych reklamach?"
+        },
+        {
+          "key": "faq4a",
+          "en": "Usage rights are built into my fee and scoped to the length of usage you need. We'll align on the period before kickoff.",
+          "pl": "Prawa do wykorzystania są wliczone w moje wynagrodzenie i obejmują okres, którego potrzebujesz. Uzgodnimy ten okres przed kickoffem."
+        },
+        {
+          "key": "ctaTitle",
+          "en": "Need UGC that actually converts?",
+          "pl": "Potrzebujesz UGC, które naprawdę konwertuje?"
+        },
+        {
+          "key": "ctaSubtext",
+          "en": "Tell me about your brand and what you're running.",
+          "pl": "Napisz mi o swojej marce i tym, co prowadzisz."
+        }
+      ]
+    },
+    {
+      "page": "about",
+      "sections": [
+        {
+          "key": "role",
+          "en": "Performance Creative Strategist",
+          "pl": "Performance Creative Strategist"
+        },
+        {
+          "key": "title",
+          "en": "About",
+          "pl": "O mnie"
+        },
+        {
+          "key": "bio1",
+          "en": "I'm a freelance performance creative strategist working with brands and agencies on the creative side of paid social.",
+          "pl": "Jestem performance creative strategist — pracuję z markami i agencjami nad treściami do płatnych reklam w mediach społecznościowych."
+        },
+        {
+          "key": "bio2",
+          "en": "I started as a UGC creator — I was the face of the ads. After a while, I realized I didn't want to just deliver someone else's brief. I wanted to be the one writing it. So I moved into strategy, and now I bring my creator-side instincts to every brief I write — hooks that actually stop the scroll, scripts that perform on camera, real understanding of what makes UGC convert.",
+          "pl": "Zaczęłam jako twórca UGC — byłam twarzą reklam. Po jakimś czasie zdałam sobie sprawę, że nie chcę tylko realizować czyjegoś briefu. Chciałam być tą, która realizuje, nie pisze briefe. Przeszłam do strategii i teraz wnoszę instynkty twórcy do każdego briefu, który piszę — hooki, które naprawdę zatrzymują scrollowanie, skrypty, które działają przed kamerą, prawdziwa świadomość tego, co sprawia, że UGC konwertuje."
+        },
+        {
+          "key": "bio3",
+          "en": "My background is hybrid — agency experience plus in-house consulting — across Meta and TikTok. I currently work as the performance creative strategist for SimplyWise, a US tech company building AI apps for self-employed professionals.",
+          "pl": "Moje doświadczenie jest hybrydowe — praca agencyjna plus doradztwo wewnętrzne — na platformach Meta i TikTok. Aktualnie pracuję jako performance creative strategist dla SimplyWise, amerykańskiej firmy technologicznej budującej aplikacje AI dla przedsiębiorców."
+        },
+        {
+          "key": "bio4",
+          "en": "I'm based in Thailand and work remotely with teams globally. I work in English and Polish (native), and write Spanish-language briefs with AI assistance — useful for running ad pipelines that reach Spanish-speaking audiences.",
+          "pl": "Mieszkam w Tajlandii i pracuję zdalnie z zespołami na całym świecie. Pracuję w języku angielskim i polskim (native) oraz piszę briefy po hiszpańsku z pomocą AI — przydatne przy prowadzeniu kampanii dla odbiorców hiszpańskojęzycznych."
+        },
+        {
+          "key": "photoPlaceholder",
+          "en": "Portrait photo to come",
+          "pl": "Zdjęcie portretowe wkrótce"
+        },
+        {
+          "key": "ctaTitle",
+          "en": "Ready to talk?",
+          "pl": "Gotowa, żeby porozmawiać?"
+        },
+        {
+          "key": "ctaSubtext",
+          "en": "Fill out the intake form — I'll be in touch.",
+          "pl": "Wypełnij formularz — odezwę się."
+        }
+      ]
+    },
+    {
+      "page": "contact",
+      "sections": [
+        {
+          "key": "tag",
+          "en": "Get in Touch",
+          "pl": "Kontakt"
+        },
+        {
+          "key": "title",
+          "en": "Let's talk.",
+          "pl": "Porozmawiajmy."
+        },
+        {
+          "key": "subtitle",
+          "en": "Tell me about your business below. I'll get back to you within 48 hours, and if it sounds like a fit, we'll set up a call.",
+          "pl": "Opisz swój biznes poniżej. Odpiszę w ciągu 48 godzin — jeśli będziemy dobrym dopasowaniem, umówimy rozmowę."
+        },
+        {
+          "key": "nameLabel",
+          "en": "Your name",
+          "pl": "Imię"
+        },
+        {
+          "key": "companyLabel",
+          "en": "Brand / company",
+          "pl": "Marka / firma"
+        },
+        {
+          "key": "websiteLabel",
+          "en": "Website",
+          "pl": "Strona internetowa"
+        },
+        {
+          "key": "roleLabel",
+          "en": "Your role",
+          "pl": "Twoja rola"
+        },
+        {
+          "key": "emailLabel",
+          "en": "Your email",
+          "pl": "Twój email"
+        },
+        {
+          "key": "serviceLabel",
+          "en": "Which service are you interested in?",
+          "pl": "Którą usługą jesteś zainteresowany/a?"
+        },
+        {
+          "key": "serviceSelect",
+          "en": "Select…",
+          "pl": "Wybierz…"
+        },
+        {
+          "key": "serviceCS",
+          "en": "Creative Strategy",
+          "pl": "Strategia Kreatywna"
+        },
+        {
+          "key": "serviceUGC",
+          "en": "User Generated Content creation",
+          "pl": "Tworzenie treści UGC"
+        },
+        {
+          "key": "serviceSponsored",
+          "en": "Sponsored content",
+          "pl": "Treści sponsorowane"
+        },
+        {
+          "key": "serviceMix",
+          "en": "Mix",
+          "pl": "Mix"
+        },
+        {
+          "key": "serviceIDK",
+          "en": "I don't know yet",
+          "pl": "Jeszcze nie wiem"
+        },
+        {
+          "key": "platformsLabel",
+          "en": "Primary acquisition channels",
+          "pl": "Główne kanały akwizycji"
+        },
+        {
+          "key": "platformOther",
+          "en": "Other",
+          "pl": "Inne"
+        },
+        {
+          "key": "platformNone",
+          "en": "Not running paid social ads",
+          "pl": "Nie prowadzę płatnych reklam w social mediach"
+        },
+        {
+          "key": "capacityLabel",
+          "en": "In what capacity do you need me?",
+          "pl": "W jakiej formie chcesz ze mną pracować?"
+        },
+        {
+          "key": "capacityFull",
+          "en": "Full-time",
+          "pl": "Pełny etat"
+        },
+        {
+          "key": "capacityFullNote",
+          "en": "(Currently not available for full-time hours)",
+          "pl": "(Aktualnie brak dostępności)"
+        },
+        {
+          "key": "capacityPart",
+          "en": "Part-time",
+          "pl": "Niepełny etat"
+        },
+        {
+          "key": "capacityProject",
+          "en": "Project-based",
+          "pl": "Projekt"
+        },
+        {
+          "key": "spendLabel",
+          "en": "Monthly ad spend",
+          "pl": "Miesięczny budżet"
+        },
+        {
+          "key": "spendLess",
+          "en": "Less than $300K",
+          "pl": "Mniej niż 300 000 USD"
+        },
+        {
+          "key": "spendMid",
+          "en": "$300K — $800K",
+          "pl": "300 000 — 800 000 USD"
+        },
+        {
+          "key": "spendOver",
+          "en": "Over $800K",
+          "pl": "Powyżej 800 000 USD"
+        },
+        {
+          "key": "spendNone",
+          "en": "Not running paid social ads",
+          "pl": "Nie prowadzę płatnych reklam społecznościowych"
+        },
+        {
+          "key": "projectScopeLabel",
+          "en": "Project scope",
+          "pl": "Zakres projektu"
+        },
+        {
+          "key": "scopeOneOff",
+          "en": "One-off project",
+          "pl": "Jednorazowy projekt"
+        },
+        {
+          "key": "scopeMulti",
+          "en": "Ongoing multi-month",
+          "pl": "Wielomiesięczny"
+        },
+        {
+          "key": "scopeRetainer",
+          "en": "Retainer",
+          "pl": "Retainer"
+        },
+        {
+          "key": "scopeNotSure",
+          "en": "Not sure yet",
+          "pl": "Jeszcze nie wiem"
+        },
+        {
+          "key": "ugcTimelineLabel",
+          "en": "When do you need this by?",
+          "pl": "Na kiedy tego potrzebujesz?"
+        },
+        {
+          "key": "ugcTimelinePlaceholder",
+          "en": "e.g. end of Q2, within 3 weeks, ASAP…",
+          "pl": "np. koniec Q2, w ciągu 3 tygodni, jak najszybciej…"
+        },
+        {
+          "key": "deliverablesLabel",
+          "en": "Deliverable types you're interested in",
+          "pl": "Pożądany rezultat"
+        },
+        {
+          "key": "deliverableIG",
+          "en": "Video posted to my Instagram",
+          "pl": "Wideo opublikowane na moim Instagramie"
+        },
+        {
+          "key": "deliverableTK",
+          "en": "Video posted to my TikTok",
+          "pl": "Wideo opublikowane na moim TikToku"
+        },
+        {
+          "key": "deliverableIGStory",
+          "en": "Stories posted to my Instagram",
+          "pl": "Stories opublikowane na moim Instagramie"
+        },
+        {
+          "key": "deliverableTKStory",
+          "en": "Stories posted to my TikTok",
+          "pl": "Stories opublikowane na moim TikToku"
+        },
+        {
+          "key": "deliverableMix",
+          "en": "Mix",
+          "pl": "Mix"
+        },
+        {
+          "key": "campaignTypeLabel",
+          "en": "Campaign type",
+          "pl": "Typ kampanii"
+        },
+        {
+          "key": "campaignSingle",
+          "en": "Single post",
+          "pl": "Pojedynczy post"
+        },
+        {
+          "key": "campaignSeries",
+          "en": "Series",
+          "pl": "Seria"
+        },
+        {
+          "key": "campaignOngoing",
+          "en": "Ongoing partnership",
+          "pl": "Długoterminowa współpraca"
+        },
+        {
+          "key": "messageLabelUGC",
+          "en": "Tell me about your project",
+          "pl": "Opisz swój projekt"
+        },
+        {
+          "key": "messageLabelSponsored",
+          "en": "Tell me about your company and campaign goals",
+          "pl": "Opisz swoją firmę i cele kampanii"
+        },
+        {
+          "key": "messageLabelIDK",
+          "en": "Tell me about your company and what you're thinking about",
+          "pl": "Opisz swoją firmę i co masz na myśli"
+        },
+        {
+          "key": "messageLabelDefault",
+          "en": "Tell me about your brand and what you need",
+          "pl": "Opisz swoją markę i czego potrzebujesz"
+        },
+        {
+          "key": "messagePlaceholderSponsored",
+          "en": "What's your company, who's your audience, what kind of campaign are you thinking?",
+          "pl": "Czym jest Twoja firma, kto jest Twoją grupą docelową, jaki rodzaj kampanii masz na myśli?"
+        },
+        {
+          "key": "messagePlaceholderIDK",
+          "en": "Tell me what you do and what's on your mind.",
+          "pl": "Opisz, czym się zajmujesz i co chodzi Ci po głowie."
+        },
+        {
+          "key": "messagePlaceholderDefault",
+          "en": "What product do you sell, who's the customer, what's the challenge you're trying to solve with performance creative?",
+          "pl": "Jaki produkt sprzedajesz, kim jest klient, jaki problem próbujesz rozwiązać dzięki performance creative?"
+        },
+        {
+          "key": "timelineLabel",
+          "en": "Timeline",
+          "pl": "Harmonogram"
+        },
+        {
+          "key": "timelineASAP",
+          "en": "ASAP",
+          "pl": "Jak najszybciej"
+        },
+        {
+          "key": "timeline1to3",
+          "en": "1–3 months",
+          "pl": "1–3 miesiące"
+        },
+        {
+          "key": "timeline3to6",
+          "en": "3–6 months",
+          "pl": "3–6 miesięcy"
+        },
+        {
+          "key": "timelineExploring",
+          "en": "Just exploring",
+          "pl": "Tylko rozglądam się"
+        },
+        {
+          "key": "platformError",
+          "en": "Please select at least one option.",
+          "pl": "Wybierz co najmniej jedną opcję."
+        },
+        {
+          "key": "submit",
+          "en": "Send →",
+          "pl": "Wyślij →"
+        },
+        {
+          "key": "submitting",
+          "en": "Sending…",
+          "pl": "Wysyłanie…"
+        },
+        {
+          "key": "successTitle",
+          "en": "Got it — thanks.",
+          "pl": "Otrzymałam Twoją wiadomość — dzięki."
+        },
+        {
+          "key": "successText",
+          "en": "I'll review your message and get back to you within 48 hours if it looks like a fit.",
+          "pl": "Przejrzę Twoją wiadomość i odpiszę w ciągu 48 godzin — jeśli będziemy pasować do siebie."
+        },
+        {
+          "key": "emailSectionLabel",
+          "en": "Email",
+          "pl": "Email"
+        },
+        {
+          "key": "socialLabel",
+          "en": "Social",
+          "pl": "Social media"
+        }
+      ]
+    }
+  ]
+}

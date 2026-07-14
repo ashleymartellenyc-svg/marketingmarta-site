@@ -1,0 +1,53 @@
+@import url('https://api.fontshare.com/v2/css?f[]=general-sans@700,600,500,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    background-color: #FAF6F0;
+    color: #1A1612;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-size: 16px;
+  }
+  @media (min-width: 1024px) {
+    html { font-size: 17px; }
+  }
+  @media (min-width: 1280px) {
+    html { font-size: 18px; }
+  }
+  * { box-sizing: border-box; }
+  ::selection { background-color: #B33A2C; color: #FAF6F0; }
+
+  @media (hover: hover) and (pointer: fine) {
+    html, * { cursor: none !important; }
+  }
+}
+
+@layer utilities {
+  .font-sans { font-family: 'General Sans', Inter, system-ui, sans-serif; }
+}
+
+/* Slow spin for asterisk decorations */
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+.spin-slow { animation: spin-slow 20s linear infinite; }
+
+/* Sponsored section arrow bounce */
+@keyframes arrowPulse {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(5px); }
+}
+
+/* Pulsing ring for globe marker */
+@keyframes pulse-ring {
+  0%   { transform: scale(1);   opacity: 0.8; }
+  100% { transform: scale(2.5); opacity: 0; }
+}
+.pulse-ring {
+  animation: pulse-ring 2s ease-out infinite;
+}
