@@ -17,7 +17,6 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-globe.gl": "^2.38.0",
-    "react-simple-maps": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^22",
