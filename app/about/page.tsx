@@ -8,7 +8,6 @@ import AboutPortrait from "@/components/AboutPortrait";
 import { useLocale } from "@/lib/useLocale";
 import { t } from "@/lib/t";
 
-const WorldMap2D = dynamic(() => import("@/components/WorldMap2D"), { ssr: false });
 
 const fadeUp = {
   initial: { opacity: 0, y: 20 },
@@ -68,7 +67,6 @@ export default function AboutPage() {
             viewport={{ once: true }}
             transition={{ duration: 0.5 }}
           >
-            <WorldMap2D />
           </motion.div>
         </div>
 
