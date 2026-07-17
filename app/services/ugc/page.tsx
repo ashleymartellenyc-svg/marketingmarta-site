@@ -158,23 +158,49 @@ export default function UGCPage() {
           </Link>
         </motion.div>
 
-        {/* Header */}
-        <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.05 }} className="mb-14 max-w-3xl">
-          <p className="font-sans text-xs tracking-[0.22em] uppercase text-cherry mb-5 flex items-center gap-2">
-            <RotatingAsterisk size="text-xs" />
-            {t("ugc.tag", locale)}
-          </p>
-          <h1 className="font-sans font-bold text-display-lg text-ink mb-8">{t("ugc.title", locale)}</h1>
-          <p className="font-sans text-lg text-brown leading-relaxed mb-5">{t("ugc.intro1", locale)}</p>
-          <p className="font-sans text-lg text-brown leading-relaxed">{t("ugc.intro2", locale)}</p>
-        </motion.div>
+        {/* Intro + Video */}
+        <div className="flex flex-col lg:flex-row gap-12 lg:gap-16 items-start mb-16 pb-16 border-b border-brown/15">
 
-        {/* What I do */}
-        <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.1 }} className="mb-16 pb-16 border-b border-brown/15 max-w-3xl">
-          <h2 className="font-sans font-semibold text-2xl text-ink mb-6">{t("ugc.whatTitle", locale)}</h2>
-          <p className="font-sans text-base text-brown leading-relaxed mb-5">{t("ugc.what1", locale)}</p>
-          <p className="font-sans text-base text-brown leading-relaxed">{t("ugc.what2", locale)}</p>
-        </motion.div>
+          {/* Left: text */}
+          <div className="flex-1 min-w-0">
+            {/* Header */}
+            <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.05 }} className="mb-14">
+              <p className="font-sans text-xs tracking-[0.22em] uppercase text-cherry mb-5 flex items-center gap-2">
+                <RotatingAsterisk size="text-xs" />
+                {t("ugc.tag", locale)}
+              </p>
+              <h1 className="font-sans font-bold text-display-lg text-ink mb-8">{t("ugc.title", locale)}</h1>
+              <p className="font-sans text-lg text-brown leading-relaxed mb-5">{t("ugc.intro1", locale)}</p>
+              <p className="font-sans text-lg text-brown leading-relaxed">{t("ugc.intro2", locale)}</p>
+            </motion.div>
+
+            {/* What I do */}
+            <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.1 }}>
+              <h2 className="font-sans font-semibold text-2xl text-ink mb-6">{t("ugc.whatTitle", locale)}</h2>
+              <p className="font-sans text-base text-brown leading-relaxed mb-5">{t("ugc.what1", locale)}</p>
+              <p className="font-sans text-base text-brown leading-relaxed">{t("ugc.what2", locale)}</p>
+            </motion.div>
+          </div>
+
+          {/* Right: UGC reel video */}
+          <motion.div
+            initial={{ opacity: 0, x: 20 }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ duration: 0.6, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
+            className="hidden lg:block shrink-0 self-start"
+            style={{ width: 260 }}
+          >
+            <video
+              src="/videos/ugc-carousel.mp4"
+              autoPlay
+              loop
+              muted
+              playsInline
+              style={{ width: "100%", borderRadius: 12 }}
+            />
+          </motion.div>
+
+        </div>
 
         {/* Brands */}
         <div className="mb-16 pb-16 border-b border-brown/15">
