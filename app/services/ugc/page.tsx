@@ -91,7 +91,7 @@ function VideoModal({ brand, onClose }: { brand: Brand; onClose: () => void }) {
       >
         <div className="bg-ink" style={{ aspectRatio: "9 / 16" }}>
           {!videoError ? (
-            <video key={brand.name} src={brand.video} controls autoPlay muted playsInline className="w-full h-full object-contain" onError={() => setVideoError(true)} />
+            <video key={brand.name} src={brand.video} controls autoPlay playsInline className="w-full h-full object-contain" onError={() => setVideoError(true)} />
           ) : (
             <div className="flex flex-col items-center justify-center gap-4 p-8 w-full h-full">
               {brand.logo && <Image src={brand.logo} alt={brand.name} width={120} height={60} className="object-contain max-h-14 opacity-40" />}
