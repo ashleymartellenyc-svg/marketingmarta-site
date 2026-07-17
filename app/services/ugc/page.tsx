@@ -187,7 +187,7 @@ export default function UGCPage() {
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
-            className="flex justify-center lg:block shrink-0 lg:self-start"
+            className="w-full lg:w-auto shrink-0 lg:self-start"
           >
             <video
               src="/videos/ugc-carousel.mp4"
