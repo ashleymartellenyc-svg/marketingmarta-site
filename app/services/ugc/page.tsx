@@ -195,7 +195,7 @@ export default function UGCPage() {
               loop
               muted
               playsInline
-              style={{ width: 220, maxWidth: "100%", borderRadius: 12 }}
+              style={{ width: 220, maxWidth: "100%", borderRadius: 12, display: "block", margin: "0 auto" }}
             />
           </motion.div>
 
