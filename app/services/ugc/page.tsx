@@ -174,8 +174,8 @@ export default function UGCPage() {
               <p className="font-sans text-lg text-brown leading-relaxed">{t("ugc.intro2", locale)}</p>
             </motion.div>
 
-            {/* What I do */}
-            <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.1 }}>
+            {/* What I do — desktop only (sits in left column beside video) */}
+            <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.1 }} className="hidden lg:block">
               <h2 className="font-sans font-semibold text-2xl text-ink mb-6">{t("ugc.whatTitle", locale)}</h2>
               <p className="font-sans text-base text-brown leading-relaxed mb-5">{t("ugc.what1", locale)}</p>
               <p className="font-sans text-base text-brown leading-relaxed">{t("ugc.what2", locale)}</p>
@@ -187,8 +187,7 @@ export default function UGCPage() {
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.6, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
-            className="hidden lg:block shrink-0 self-start"
-            style={{ width: 260 }}
+            className="flex justify-center lg:block shrink-0 lg:self-start"
           >
             <video
               src="/videos/ugc-carousel.mp4"
@@ -196,8 +195,15 @@ export default function UGCPage() {
               loop
               muted
               playsInline
-              style={{ width: "100%", borderRadius: 12 }}
+              style={{ width: 220, maxWidth: "100%", borderRadius: 12 }}
             />
+          </motion.div>
+
+          {/* What I do — mobile only (appears after video) */}
+          <motion.div initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.1 }} className="lg:hidden w-full">
+            <h2 className="font-sans font-semibold text-2xl text-ink mb-6">{t("ugc.whatTitle", locale)}</h2>
+            <p className="font-sans text-base text-brown leading-relaxed mb-5">{t("ugc.what1", locale)}</p>
+            <p className="font-sans text-base text-brown leading-relaxed">{t("ugc.what2", locale)}</p>
           </motion.div>
 
         </div>
