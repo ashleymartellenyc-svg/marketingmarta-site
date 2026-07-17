@@ -60,7 +60,7 @@ export default function ResultsCarousel({ results }: { results: Result[] }) {
   return (
     <div>
       {/* Desktop — 3D perspective carousel */}
-      <div className="hidden md:block relative overflow-hidden" style={{ perspective: "1200px", height: 240 }}>
+      <div className="hidden md:block relative overflow-x-hidden" style={{ perspective: "1200px", minHeight: 240 }}>
         {results.map((result, i) => {
           const offset = getOffset(i);
           const isCenter = offset === 0;

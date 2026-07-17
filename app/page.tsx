@@ -64,10 +64,11 @@ function useCountUp(target: number, duration: number, active: boolean) {
 function Stat1({ active }: { active: boolean }) {
   const locale = useLocale();
   const n = useCountUp(850, 700, active);
+  const display = locale === "pl" ? `$${(n * 1000).toLocaleString("pl-PL")}` : `$${n}K+/mo`;
   return (
     <div className="text-center md:text-left">
       <div className="font-sans font-bold text-3xl md:text-4xl text-ink mb-2 leading-none">
-        ${n}K+/mo
+        {display}
       </div>
       <p className="font-sans text-xs text-brown leading-snug max-w-[160px] mx-auto md:mx-0">
         {t("home.stat1Label", locale)}
