@@ -69,7 +69,7 @@ export default function AbroadlyPage() {
           </div>
           <motion.div initial={{ opacity: 0, x: 20 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.6, delay: 0.4, ease: [0.22, 1, 0.36, 1] }} className="">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/abroadly-phone.png" alt="Abroadly app" style={{ width: "100%", maxWidth: "320px", maxHeight: "480px", objectFit: "contain", mixBlendMode: "multiply" }} />
+            <img src="/images/abroadly-phone.png" alt="Abroadly app" style={{ width: "100%", maxWidth: "320px", maxHeight: "480px", objectFit: "contain", mixBlendMode: "multiply", display: "block", margin: "0 auto" }} />
           </motion.div>
         </div>
 
