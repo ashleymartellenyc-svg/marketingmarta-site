@@ -247,7 +247,7 @@ export default function Home() {
             {t("home.role", locale)}
           </motion.p>
 
-          <h1 className="font-sans font-bold text-display-xl text-ink leading-tight mb-8">
+          <h1 className="font-sans font-bold text-display-xl text-ink leading-tight mb-8" style={{ fontSize: "clamp(1.2rem, 6vw, 4.5rem)" }}>
             <span className="block md:max-w-[75%]">
               {heroWords1.map((word, i) => (
                 <motion.span
