@@ -119,7 +119,7 @@
     "ugc_label": "UGC",
     "ugc_description": "Od UGC zaczęłam swoją karierę. Piszę, kręcę, montuję i dostarczam gotowe treści reklamowe w stylu UGC, zakorzenione w prawdziwych badaniach odbiorców i zbudowane dla performance'u.",
     "notSure": "Nie wiesz, co pasuje?",
-    "notSureSubtext": "Opisz mi, gdzie jesteś i czego potrzebujesz — znajdziemy rozwiązanie."
+    "notSureSubtext": "Opisz mi z czym się borykasz i jakiego wsparcia potrzebujesz — znajdziemy rozwiązanie."
   },
   "cs": {
     "backLabel": "← Usługi",
@@ -147,7 +147,7 @@
     "faq3q": "Co obejmuje stała współpraca?",
     "faq3a": "Strategia i badania kreatywne, tworzenie konceptów, pisanie skryptów, pozyskiwanie i briefowanie twórców, zarządzanie produkcją UGC, kompleksowe tworzenie materiałów statycznych i wideo przy użyciu narzędzi AI (jak Higgsfield) plus montaż, analiza performance'u bezpośrednio z Twoich ad managerów oraz ciągłe ulepszanie treści. Nie zajmuję się prowadzeniem i optymalizacją kampanii reklamowych ani tworzeniem identyfikacji wizualnej marki.",
     "faq4q": "Jak mierzymy sukces?",
-    "faq4a": "Metryki sukcesu zależą od biznesu. Definiujemy je razem na kickoffie — jest to zazwyczaj miks KPI-ów po stronie reklam (CPR, CTR, in-app start trials, instalacje aplikacji mobilnych, start trials na stronie) i to, co przekładają się na dalszej części lejka.",
+    "faq4a": "Metryki sukcesu zależą od biznesu. Definiujemy je razem na kickoffie — jest to zazwyczaj miks KPI-ów po stronie reklam (CPR, CTR, in-app start trials, mobile app installs, website start trials) i to, co przekładają się na dalszej części lejka.",
     "faq5q": "Jak początkowo wygląda współpraca?",
     "faq5a": "Wypełnij formularz intakeowy, żebym mogła poznać Twój biznes. Jeśli uznam, że do siebie pasujemy, wyślę Ci maila z propozycją terminu bezpłatnej rozmowy wstępnej. Po niej: 30-dniowy kickoff z audytem kreatywnym i mapą konceptów, a następnie bieżący miesięczny rytm — analiza → koncepty → produkcja → testowanie.",
     "ctaTitle": "Gotów na rozmowę?",
@@ -173,12 +173,12 @@
     "sponsored_mobile_p2": "Organiczny zasięg, prawdziwe zaufanie odbiorców i inny rodzaj wiarygodności niż płatne reklamy.",
     "faqTitle": "Często zadawane pytania",
     "faq1q": "Gdzie możesz kręcić?",
-    "faq1a": "Wszędzie tam, gdzie pasuje do briefu. Dom, siłownia, kawiarnie, sklepy, autentyczne tajskie targowiska, dżungla, wodospady, zewnętrzne baseny, ulice miejskie, hotele, plaże. Jestem oparta w Chiang Mai w Tajlandii i mogę podróżować w obrębie Tajlandii lub dalej po wcześniejszym planowaniu. Złożoność lokalizacji wpływa na stawkę i czas realizacji.",
+    "faq1a": "Wszędzie tam, gdzie pasuje do briefu. Dom, siłownia, kawiarnie, sklepy, autentyczne tajskie targowiska, dżungla, wodospady, zewnętrzne baseny, ulice miejskie, hotele, plaże. Mieszkam w Chiang Mai w Tajlandii i mogę podróżować w obrębie Tajlandii lub dalej po wcześniejszym planowaniu. Złożoność lokalizacji wpływa na stawkę i czas realizacji.",
     "faq2q": "Piszesz skrypt, czy mam dostarczyć swój?",
-    "faq2a": "Piszę skrypty i briefy jako część standardowego zakresu. Jeśli masz skrypt, który chcesz, żebym odczytała zgodnie z nim, oferuję script reads.",
+    "faq2a": "Piszę skrypty i briefy jako część standardowego zakresu. Jeśli masz skrypt, który chcesz, żebym odczytała, oferuję script reads.",
     "faq3q": "Jaki jest typowy czas realizacji?",
-    "faq3a": "Każdy projekt ma inny zakres w zależności od tego, co robię — skrypty, montaż, warianty hooków, lokalizacje, liczba zasobów. Dla typowego zaangażowania: ok. tydzień na napisanie briefu i akceptację klienta, potem kolejny tydzień na dostarczenie finałów. Dopłata za pilne zlecenia, jeśli potrzebujesz szybciej.",
-    "faq4q": "Jaka jest Twoja polityka praw do wykorzystania w płatnych reklamach?",
+    "faq3a": "Każdy projekt ma inny zakres w zależności od tego, co robię — skrypty, montaż, warianty hooków, lokalizacje, liczba zasobów. Dla typowego zaangażowania: ok. tydzień na napisanie briefu i akceptację klienta, potem kolejny tydzień na dostarczenie finalnych treści. Dopłata za pilne zlecenia, jeśli potrzebujesz szybciej.",
+    "faq4q": "Jaka jest Twoja polityka praw do wykorzystania Twoich treści w płatnych reklamach?",
     "faq4a": "Prawa do wykorzystania są wliczone w moje wynagrodzenie i obejmują okres, którego potrzebujesz. Uzgodnimy ten okres przed kickoffem.",
     "ctaTitle": "Potrzebujesz UGC, które naprawdę konwertuje?",
     "ctaSubtext": "Napisz mi o swojej marce i celach"

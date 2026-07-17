@@ -57,12 +57,12 @@ export default function AwesomeMapsPage() {
               {t("awesomeMaps.title", locale)}
             </motion.h1>
             <motion.div initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.4, delay: 0.3 }} className="pt-6 border-t border-brown/15 mb-8">
-              <p className="font-sans text-sm text-brown">
-                {t("awesomeMaps.metaRole", locale)}
+              <p className="font-sans text-sm text-brown flex flex-wrap items-center gap-y-0.5">
+                <span className="whitespace-nowrap">{t("awesomeMaps.metaRole", locale)}</span>
                 <MetaDot />
-                {t("awesomeMaps.metaGoal", locale)}
+                <span className="whitespace-nowrap">{t("awesomeMaps.metaGoal", locale)}</span>
                 <MetaDot />
-                {t("awesomeMaps.metaDate", locale)}
+                <span className="whitespace-nowrap">{t("awesomeMaps.metaDate", locale)}</span>
               </p>
             </motion.div>
             {/* Testimonial — inside left column, no gap from meta */}
